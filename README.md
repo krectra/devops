@@ -1,6 +1,9 @@
 # devops
 DevOps stuff
 
+## Scripts
+- [Install Phantom JS and Casper JS](sh/install_phantom_casperjs.sh)
+
 
 ## Notes
 ### NoSQL
