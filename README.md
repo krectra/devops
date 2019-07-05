@@ -11,6 +11,9 @@ DevOps stuff
 
 
 ## Notes
+- Supervisor
+    - http://rahmonov.me/posts/run-a-django-app-with-nginx-gunicorn-and-supervisor/
+
 ### NoSQL
 - MongoDB
     - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04
