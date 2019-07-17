@@ -4,6 +4,15 @@
 $ pg_dumpall > <backup_output_file>
 ```
 2. Install Postgres 11
+Create a `pgdg.list`
+```
+$ sudo vi /etc/apt/sources.list.d/pgdg.list
+```
+Add the repo based on version
+```
+deb http://apt.postgresql.org/pub/repos/apt/ YOUR_UBUNTU_VERSION_HERE-pgdg main
+```
+Then install
 ```
 $ wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
 $ sudo apt-get update
