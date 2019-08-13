@@ -1,4 +1,10 @@
 # Installation in Ubuntu 16.04
+## Short version
+```
+$ sudo apt-get install redis-server -y
+```
+
+## Long version
 Update
 ```
 $ sudo apt-get update
