@@ -52,3 +52,20 @@ cd ..
 ```
 $ tesseract -v
 ```
+
+
+# Installation in Ubuntu
+
+### 
+```
+$ sudo apt update
+$ sudo apt install tesseract-ocr
+```
+
+### Install language
+```
+$ sudo apt-get install tesseract-ocr-<lang>
+```
+
+Additional reference:
+- https://github.com/tesseract-ocr/tessdata
