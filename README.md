@@ -5,6 +5,9 @@ DevOps stuff
 - [Install Phantom JS and Casper JS](sh/install_phantom_casperjs.sh)
 
 ## Installation/Upgrade
+### Server
+- [SSL](server/ssl.md) 
+
 ### Postgres
 - [Upgrade postgresql from 9.5 to 11 on Ubuntu 16.10](postgres/upgrade.md)
 - [Extension](postgres/extensions.md)
