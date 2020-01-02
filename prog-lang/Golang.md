@@ -1,4 +1,4 @@
-# Installation of go
+# Installation of Golang
 
 #### Download 
 Go [here](https://golang.org/dl/) for the latest archive.
