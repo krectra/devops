@@ -1,6 +1,8 @@
 # devops
 DevOps stuff
 
+[![HitCount](http://hits.dwyl.io/krectra/devops.svg)](http://hits.dwyl.io/krectra/devops)
+
 ## Scripts
 - [Install Phantom JS and Casper JS](sh/install_phantom_casperjs.sh)
 
