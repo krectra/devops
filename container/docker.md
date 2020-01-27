@@ -83,6 +83,15 @@ $ docker-compose --version
 ```
 
 
+# Docker Machine
+```
+$ curl -L https://github.com/docker/machine/releases/download/v0.13.0/docker-machine-`uname -s`-`uname -m` >/tmp/docker-machine && \
+chmod +x /tmp/docker-machine && \
+sudo cp /tmp/docker-machine /usr/local/bin/docker-machine
+```
+
 Reference:
 - https://docs.docker.com/install/linux/docker-ce/ubuntu/
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+- https://docs.docker.com/v17.09/compose/install/
+- https://docs.docker.com/v17.09/machine/install-machine/
