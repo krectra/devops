@@ -68,6 +68,21 @@ $ docker
 ```
 
 
+# Docker Compose
+For the latest version check [here](https://github.com/docker/compose/releases)
+```
+$ sudo curl -L https://github.com/docker/compose/releases/download/1.25.3/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+```
+Apply permission
+```
+$ sudo chmod +x /usr/local/bin/docker-compose
+```
+Test
+```
+$ docker-compose --version
+```
+
+
 Reference:
 - https://docs.docker.com/install/linux/docker-ce/ubuntu/
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
