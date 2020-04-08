@@ -1,5 +1,5 @@
 # Installation
-Note: Tested in Ubuntu 16.04
+Note: Tested in Ubuntu 16.04 and 18.04
 
 Update the apt index
 ```
