@@ -30,3 +30,7 @@ $ erl
 1> c(hello).
 {ok,hello}
 ```
+
+
+Reference:
+- https://computingforgeeks.com/how-to-install-latest-erlang-on-ubuntu-18-04-lts/
