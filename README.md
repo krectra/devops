@@ -22,6 +22,9 @@ DevOps stuff
     - http://rahmonov.me/posts/run-a-django-app-with-nginx-gunicorn-and-supervisor/
 ### AWS
 - [Physical Cores by Amazon EC2 Instance Type](https://aws.amazon.com/ec2/physicalcores/)
+### Nginx
+Samples:
+- https://github.com/nginxinc/NGINX-Demos
 
 ### NoSQL
 - Cassandra
