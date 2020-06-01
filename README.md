@@ -3,6 +3,9 @@ DevOps stuff
 
 [![HitCount](http://hits.dwyl.io/krectra/devops.svg)](http://hits.dwyl.io/krectra/devops)
 
+## Lab
+- https://lab.github.com/
+
 ## Scripts
 - [Install Phantom JS and Casper JS](sh/install_phantom_casperjs.sh)
 
