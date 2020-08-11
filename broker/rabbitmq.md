@@ -40,6 +40,12 @@ $ sudo rabbitmqctl set_user_tags <user> administrator
 $ sudo rabbitmqctl set_permissions -p / <user> ".*" ".*" ".*"
 ```
 
+## Enable to public
+```
+$ vim sudo vim /etc/rabbitmq/rabbitmq-env.conf
+```
+set `NODE_IP_ADDRESS` to `0.0.0.0`
+
 
 # Install RabbitMQ in Ubuntu 20.04 LTS
 
@@ -83,6 +89,14 @@ $ sudo rabbitmqctl add_user <user> <strong_password>
 $ sudo rabbitmqctl set_user_tags <user> administrator
 $ sudo rabbitmqctl set_permissions -p / <user> ".*" ".*" ".*"
 ```
+
+
+## Enable to public
+```
+$ vim sudo vim /etc/rabbitmq/rabbitmq-env.conf
+```
+set `NODE_IP_ADDRESS` to `0.0.0.0`
+
 
 Reference:
 - https://computingforgeeks.com/how-to-install-latest-rabbitmq-server-on-ubuntu-18-04-lts/
