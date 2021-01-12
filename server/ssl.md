@@ -12,3 +12,14 @@ Auto-renewal Setup
 ```bash
 15 3 * * * /usr/bin/certbot renew >> /tmp/cert-renew.log
 ```
+
+
+Check certificates
+```bash
+$ sudo certbot certificates 
+```
+
+Delete a certficate
+```bash
+$ sudo certbot delete --cert-name <domain>
+```
