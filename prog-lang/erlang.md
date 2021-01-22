@@ -13,7 +13,7 @@ echo "deb https://packages.erlang-solutions.com/ubuntu <version> contrib" | sudo
 ```
 Example:
 ```
-echo "deb https://packages.erlang-solutions.com/ubuntu <version> contrib" | sudo tee /etc/apt/sources.list.d/rabbitmq.list
+echo "deb https://packages.erlang-solutions.com/ubuntu bionic contrib" | sudo tee /etc/apt/sources.list.d/rabbitmq.list
 ```
 
 
