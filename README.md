@@ -3,6 +3,16 @@ DevOps stuff
 
 [![HitCount](http://hits.dwyl.io/krectra/devops.svg)](http://hits.dwyl.io/krectra/devops)
 
+## Distribution
+### Ubuntu
+```
+- focal for Ubuntu 20.04
+- bionic for Ubuntu 18.04
+- xenial for Ubuntu 16.04
+- buster for Debian Buster
+- stretch for Debian Stretch
+```
+
 ## Lab
 - https://lab.github.com/
 
