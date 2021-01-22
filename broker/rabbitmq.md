@@ -1,4 +1,6 @@
-# Install RabbitMQ in Ubuntu 18.04 LTS
+# Install RabbitMQ in Ubuntu
+
+Note: tested in 18.04 LTS
 
 ## Install Erlang
 Follow [this](/prog-lang/erlang.md) 
