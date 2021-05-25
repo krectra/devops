@@ -1,7 +1,6 @@
 # devops
 DevOps stuff
 
-[![HitCount](http://hits.dwyl.io/krectra/devops.svg)](http://hits.dwyl.io/krectra/devops)
 
 ## Distribution
 ### Ubuntu
